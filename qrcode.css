@@ -19,7 +19,7 @@ body{
 }
 img{
     border-radius: 5%;
-    margin-top: 3%;
+    margin-top: 5%;
     width: 90%;
     height: 100%;
 }
@@ -34,15 +34,20 @@ img{
     color:hsl(220, 15%, 55%);
     padding-bottom: 5%;
 }
-@media screen and (max-width: 375px){
+@media screen and (width: 375px){
     body{
         max-width: 375px;
+        font-size: 10px;
+        margin-top: 30% ;
     }
     .content{
-        margin: 5% 90% 15% 90%;
+        margin: 0% 10% 0% 10%;
     }
     img{
-        width: 100%;
+        width: 90%;
         height: 100%;
+    }
+    footer{
+        margin-top: 30%;
     }
 }
