@@ -54,8 +54,8 @@ I styled the desktop view first before the mobile.
 ## Author
 
 - Website - [Priscilla Adindeh](https://github.com/MAPella)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MAPella)
 - Twitter - [@PAdindeh](https://www.twitter.com/PAdindeh)
 
 ## Acknowledgments
-I want to thank the MDN team, the website was useful for this project. I would definetely do more with them.
+I want to thank the Frontendmentor team for the opportunity to code live projects.I would definetely do more with them, also the MDN website was useful for this project, i thank the team for the availability of their site.
